@@ -1,0 +1,1202 @@
+﻿Log file open, 10/23/16 19:18:58
+LogInit:Display: Running engine for game: FS
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1079835153) SRandInit(1079835153).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.061897
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3106830
+LogInit: Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3106830
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug 30 2016 18:11:39
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.23-16.18.58:294][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.23-16.18.58:294][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.23-16.18.58:300][  0]LogInit: Computer: XOTABUCH-ПК
+[2016.10.23-16.18.58:300][  0]LogInit: User: Xotabuch
+[2016.10.23-16.18.58:300][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.23-16.18.58:300][  0]LogInit: High frequency timer resolution =3.418027 MHz
+[2016.10.23-16.18.58:300][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.10.23-16.18.58:300][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.23-16.18.58:300][  0]LogMemory: Process Physical Memory: 257.92 MB used, 257.92 MB peak
+[2016.10.23-16.18.58:300][  0]LogMemory: Process Virtual Memory: 261.73 MB used, 261.73 MB peak
+[2016.10.23-16.18.58:300][  0]LogMemory: Physical Memory: 7615.30 MB used, 16333.17 MB total
+[2016.10.23-16.18.58:300][  0]LogMemory: Virtual Memory: 591.75 MB used, 8388608.00 MB total
+[2016.10.23-16.18.58:330][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2016.10.23-16.18.58:816][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.23-16.18.59:279][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2016.10.23-16.18.59:279][  0]LogD3D11RHI:       1989/0/7910 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.23-16.18.59:279][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.23-16.18.59:285][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.23-16.18.59:285][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.23-16.18.59:285][  0]LogWindows: EnumDisplayDevices:
+[2016.10.23-16.18.59:285][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2016.10.23-16.18.59:285][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.10.23-16.18.59:285][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.10.23-16.18.59:285][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2016.10.23-16.18.59:285][  0]LogD3D11RHI:   Driver Version: 373.06 (internal:21.21.13.7306, unified:373.06)
+[2016.10.23-16.18.59:285][  0]LogD3D11RHI:      Driver Date: 10-1-2016
+[2016.10.23-16.18.59:285][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.23-16.18.59:756][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.23-16.18.59:781][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.10.23-16.18.59:781][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (D:/body/Forbidden Sorcery/ForbiddenSorcery/Intermediate/Shaders/WorkingDirectory/9548/).
+[2016.10.23-16.18.59:781][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Xotabuch/AppData/Local/Temp/UnrealShaderWorkingDir/51BC903D4950B2DD5DB505AD7A14D373/'.
+[2016.10.23-16.18.59:781][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.23-16.19.00:592][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.23-16.19.00:599][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.23-16.19.00:605][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.23-16.19.00:612][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.23-16.19.00:619][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.23-16.19.00:625][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.23-16.19.00:631][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.23-16.19.00:636][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.23-16.19.00:641][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.23-16.19.00:647][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.23-16.19.00:653][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.23-16.19.00:664][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.23-16.19.00:664][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.23-16.19.00:664][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.23-16.19.00:682][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.23-16.19.00:687][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.23-16.19.00:692][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.23-16.19.00:698][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.23-16.19.00:703][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.23-16.19.00:709][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.23-16.19.00:709][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.23-16.19.00:752][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Xotabuch/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Xotabuch/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/body/Forbidden Sorcery/ForbiddenSorcery/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/body/Forbidden Sorcery/ForbiddenSorcery/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.23-16.19.00:808][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.23-16.19.00:823][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.23-16.19.00:834][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Xotabuch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.23-16.19.00:997][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.23-16.19.00:999][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.23-16.19.01:000][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.23-16.19.01:114][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.23-16.19.01:114][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.23-16.19.01:114][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.23-16.19.01:366][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: fs, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 802180941
+[2016.10.23-16.19.01:398][  0]LogAssetRegistry: FAssetRegistry took 0.0196 seconds to start up
+[2016.10.23-16.19.01:407][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.007462 seconds
+[2016.10.23-16.19.01:412][  0]LogUObjectArray: 29777 objects as part of root set at end of initial load.
+[2016.10.23-16.19.01:412][  0]LogUObjectAllocator: 6124704 out of 0 bytes used by permanent object pool.
+[2016.10.23-16.19.01:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.23-16.19.01:416][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.23-16.19.01:576][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.23-16.19.01:576][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.23-16.19.02:070][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.23-16.19.02:246][  0]SourceControl: Info Source control is disabled
+[2016.10.23-16.19.02:266][  0]SourceControl: Info Source control is disabled
+[2016.10.23-16.19.02:271][  0]SourceControl: Info Source control is disabled
+[2016.10.23-16.19.02:275][  0]SourceControl: Info Source control is disabled
+[2016.10.23-16.19.02:316][  0]LogLinker:Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2016.10.23-16.19.02:316][  0]LogLinker:Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2016.10.23-16.19.02:316][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2016.10.23-16.19.02:446][  0]LogEngine: Initializing Engine...
+[2016.10.23-16.19.02:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.23-16.19.02:562][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.23-16.19.02:569][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.23-16.19.02:585][  0]LogInit: FAudioDevice initialized.
+[2016.10.23-16.19.02:617][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Xotabuch/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.23-16.19.02:623][  0]LogInit: Texture streaming: Enabled
+[2016.10.23-16.19.02:644][  0]LogInit: Transaction tracking system initialized
+[2016.10.23-16.19.02:657][  0]BlueprintLog: New page: Editor Load
+[2016.10.23-16.19.02:707][  0]LocalizationService: Info Localization service is disabled
+[2016.10.23-16.19.02:758][  0]LogConsoleResponse:Display: 
+[2016.10.23-16.19.02:846][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.23-16.19.02:846][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.23-16.19.02:931][  0]LogFileCache: Scanning file cache for directory 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/' took 0.01s
+[2016.10.23-16.19.02:931][  0]SourceControl: Info Source control is disabled
+[2016.10.23-16.19.02:931][  0]Cmd: MAP LOAD FILE="D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.23-16.19.02:931][  0]LightingResults: New page: Lighting Build
+[2016.10.23-16.19.02:933][  0]MapCheck: New page: Map Check
+[2016.10.23-16.19.02:933][  0]LightingResults: New page: Lighting Build
+[2016.10.23-16.19.03:433][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.23-16.19.03:435][  0]LogMaterial:Warning: Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2016.10.23-16.19.03:437][  0]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2016.10.23-16.19.03:487][  0]MapCheck:Warning: Warning M_Rock Material /Game/StarterContent/Props/Materials/M_Rock.M_Rock was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2016.10.23-16.19.03:487][  0]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.23-16.19.03:503][  0]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-16.19.03:505][  0]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-16.19.03:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.23-16.19.03:506][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.23-16.19.03:533][  0]MapCheck: Info Map check complete: 0 Error(s), 1 Warning(s), took 26.883ms to complete.
+[2016.10.23-16.19.03:550][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.619
+[2016.10.23-16.19.03:652][  0]LogCollectionManager: Loaded 1 collections in 0.001755 seconds
+[2016.10.23-16.19.03:679][  0]LogFileCache: Scanning file cache for directory 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Collections/' took 0.02s
+[2016.10.23-16.19.03:679][  0]LogFileCache: Scanning file cache for directory 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/Developers/Xotabuch/Collections/' took 0.00s
+[2016.10.23-16.19.03:679][  0]LogFileCache: Scanning file cache for directory 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/Collections/' took 0.00s
+[2016.10.23-16.19.03:679][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000005 seconds
+[2016.10.23-16.19.03:679][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.10.23-16.19.03:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2141 classes and 415 folders.
+[2016.10.23-16.19.03:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.23-16.19.03:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.23-16.19.03:697][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2016.10.23-16.19.03:702][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.10.23-16.19.03:743][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.10.23-16.19.03:749][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.10.23-16.19.03:853][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.23-16.19.03:863][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.23-16.19.03:891][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.10.23-16.19.03:891][  0]LogLoad: (Engine Initialization) Total time: 6.20 seconds
+[2016.10.23-16.19.03:891][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.13 seconds
+[2016.10.23-16.19.03:891][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.23-16.19.03:891][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.23-16.19.03:904][  0]LogOcInput: OculusInput pre-init called
+[2016.10.23-16.19.03:931][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.23-16.19.04:110][  0]LogRenderer: Reallocating scene render targets to support 1256x596 (Frame:2).
+[2016.10.23-16.19.04:326][  2]LogAssetRegistry: Asset discovery search completed in 2.9484 seconds
+[2016.10.23-16.19.04:326][  2]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000009 seconds (found 0 objects)
+[2016.10.23-16.19.04:326][  2]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000031 seconds (updated 0 objects)
+[2016.10.23-16.19.10:862][672]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 112 classes and 0 folders.
+[2016.10.23-16.19.19:223][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.10.23-16.19.19:299][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.10.23-16.21.06:896][906]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.23-16.21.18:593][940]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/body/Forbidden Sorcery/Rock-up.png)
+[2016.10.23-16.21.18:599][940]LogTexture:Display: Building textures: Rock-up (BGRA8)
+[2016.10.23-16.21.19:663][ 63]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.10.23-16.22.57:161][ 31]LogRenderer: Reallocating scene render targets to support 1340x756 (Frame:9639).
+[2016.10.23-16.23.33:349][977]BlueprintLog: New page: Compile Card_Rock_up
+[2016.10.23-16.23.33:984][ 11]LogSavePackage: Save=14.40ms
+[2016.10.23-16.23.33:984][ 11]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Card_Rock_up493088B6487296B10418758CE28D30D3.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset'
+[2016.10.23-16.23.33:985][ 11]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset
+[2016.10.23-16.24.39:727][504]BlueprintLog: New page: Compile Card_Rock_up
+[2016.10.23-16.24.40:133][531]LogSavePackage: Save=33.63ms
+[2016.10.23-16.24.40:133][531]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Card_Rock_up380C295A4CF0EDAEA7C9BA9D71485017.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset'
+[2016.10.23-16.24.40:134][531]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset
+[2016.10.23-16.24.46:080][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.24.46:080][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.23-16.24.46:080][198]PIE: New page: PIE session: Minimal_Default (Oct 23, 2016, 9:24:46 PM)
+[2016.10.23-16.24.46:080][198]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2016.10.23-16.24.46:109][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028703s)
+[2016.10.23-16.24.46:110][198]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.23-16.24.46:110][198]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2016.10.23-16.24.46:110][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.029667s)
+[2016.10.23-16.24.46:125][198]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.23-16.24.46:132][198]LogInit: FAudioDevice initialized.
+[2016.10.23-16.24.46:181][198]LogWorld: Game class is 'MyGameMode_C'
+[2016.10.23-16.24.46:187][198]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-16.24.46:187][198]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2016.10.23-19.24.46
+[2016.10.23-16.24.46:188][198]LogWorld: Bringing up level for play took: 0.005982
+[2016.10.23-16.24.46:190][198]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2016.10.23-16.24.46:190][198]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-16.24.46:190][198]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-16.24.46:190][198]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-16.24.46:192][198]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-16.24.46:198][198]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.332
+[2016.10.23-16.24.46:199][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.24.46:199][198]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ReceiveTick
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ExecuteUbergraph_MyPlayerCont
+
+[2016.10.23-16.24.46:199][198]LogScriptCore:Warning: 
+[2016.10.23-16.24.47:651][361]LogBlueprintUserMessages: [StorageComponent] 0
+[2016.10.23-16.24.47:651][361]LogBlueprintUserMessages: [MyChar_C_0] Card_hit
+[2016.10.23-16.24.48:061][410]LogBlueprintUserMessages: [StorageComponent] 1
+[2016.10.23-16.24.48:061][410]LogBlueprintUserMessages: [MyChar_C_0] Card_Rock_up
+[2016.10.23-16.24.48:421][453]LogBlueprintUserMessages: [StorageComponent] 2
+[2016.10.23-16.24.48:421][453]LogBlueprintUserMessages: [MyChar_C_0] Card_hit
+[2016.10.23-16.24.48:807][499]LogBlueprintUserMessages: [StorageComponent] 3
+[2016.10.23-16.24.48:807][499]LogBlueprintUserMessages: [MyChar_C_0] Card_Rock_up
+[2016.10.23-16.24.48:980][520]LogBlueprintUserMessages: [StorageComponent] 4
+[2016.10.23-16.24.48:981][520]LogBlueprintUserMessages: [MyChar_C_0] Card_Rock_up
+[2016.10.23-16.24.53:226][ 29]LogBlueprintUserMessages: [MyChar_C_0] 
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:475][179]LogBlueprintUserMessages: [MyChar_C_0] Card:
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.54:793][217]LogBlueprintUserMessages: [MyChar_C_0] Card:
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Hit
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Rock-up
+[2016.10.23-16.24.55:936][354]LogBlueprintUserMessages: [MyChar_C_0] Card:
+[2016.10.23-16.25.03:235][227]LogBlueprintUserMessages: [MyChar_C_0] 20.0
+[2016.10.23-16.25.03:243][228]LogBlueprintUserMessages: [MyChar_C_0] 20.0
+[2016.10.23-16.25.03:252][229]LogBlueprintUserMessages: [MyChar_C_0] 20.0
+[2016.10.23-16.25.03:260][230]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:269][231]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:277][232]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:285][233]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:293][234]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:302][235]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:310][236]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:319][237]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:327][238]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:335][239]LogBlueprintUserMessages: [MyChar_C_0] 19.0
+[2016.10.23-16.25.03:343][240]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:352][241]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:360][242]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:368][243]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:377][244]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:385][245]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:393][246]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:402][247]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:410][248]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:419][249]LogBlueprintUserMessages: [MyChar_C_0] 18.0
+[2016.10.23-16.25.03:427][250]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:436][251]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:444][252]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:452][253]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:460][254]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:469][255]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:477][256]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:486][257]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:494][258]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:502][259]LogBlueprintUserMessages: [MyChar_C_0] 17.0
+[2016.10.23-16.25.03:511][260]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:519][261]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:527][262]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:537][263]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:545][264]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:553][265]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:562][266]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:570][267]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:579][268]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:587][269]LogBlueprintUserMessages: [MyChar_C_0] 16.0
+[2016.10.23-16.25.03:595][270]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:604][271]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:612][272]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:620][273]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:629][274]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:638][275]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:645][276]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:654][277]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:662][278]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:670][279]LogBlueprintUserMessages: [MyChar_C_0] 15.0
+[2016.10.23-16.25.03:679][280]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:687][281]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:695][282]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:704][283]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:712][284]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:720][285]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:729][286]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:737][287]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:745][288]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:754][289]LogBlueprintUserMessages: [MyChar_C_0] 14.0
+[2016.10.23-16.25.03:762][290]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:770][291]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:779][292]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:787][293]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:795][294]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:804][295]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:812][296]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:821][297]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:829][298]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:837][299]LogBlueprintUserMessages: [MyChar_C_0] 13.0
+[2016.10.23-16.25.03:846][300]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:854][301]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:862][302]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:871][303]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:879][304]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:887][305]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:896][306]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:904][307]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:913][308]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:921][309]LogBlueprintUserMessages: [MyChar_C_0] 12.0
+[2016.10.23-16.25.03:929][310]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:937][311]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:946][312]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:954][313]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:962][314]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:971][315]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:979][316]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:988][317]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.03:997][318]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.04:005][319]LogBlueprintUserMessages: [MyChar_C_0] 11.0
+[2016.10.23-16.25.04:014][320]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:022][321]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:030][322]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:039][323]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:047][324]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:055][325]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:064][326]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:072][327]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:081][328]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:089][329]LogBlueprintUserMessages: [MyChar_C_0] 10.0
+[2016.10.23-16.25.04:097][330]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:105][331]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:114][332]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:122][333]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:131][334]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:139][335]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:147][336]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:156][337]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:164][338]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:172][339]LogBlueprintUserMessages: [MyChar_C_0] 9.0
+[2016.10.23-16.25.04:181][340]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:189][341]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:197][342]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:206][343]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:214][344]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:222][345]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:231][346]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:239][347]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:247][348]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:256][349]LogBlueprintUserMessages: [MyChar_C_0] 8.0
+[2016.10.23-16.25.04:264][350]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:272][351]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:280][352]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:289][353]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:297][354]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:306][355]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:314][356]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:322][357]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:331][358]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:339][359]LogBlueprintUserMessages: [MyChar_C_0] 7.0
+[2016.10.23-16.25.04:347][360]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:355][361]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:364][362]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:372][363]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:381][364]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:389][365]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:397][366]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:406][367]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:414][368]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:422][369]LogBlueprintUserMessages: [MyChar_C_0] 6.0
+[2016.10.23-16.25.04:430][370]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:439][371]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:447][372]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:456][373]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:464][374]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:472][375]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:481][376]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:489][377]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:497][378]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:506][379]LogBlueprintUserMessages: [MyChar_C_0] 5.0
+[2016.10.23-16.25.04:514][380]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:522][381]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:530][382]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:539][383]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:547][384]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:556][385]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:564][386]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:572][387]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:581][388]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:589][389]LogBlueprintUserMessages: [MyChar_C_0] 4.0
+[2016.10.23-16.25.04:597][390]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:606][391]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:614][392]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:622][393]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:631][394]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:639][395]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:647][396]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:656][397]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:664][398]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:672][399]LogBlueprintUserMessages: [MyChar_C_0] 3.0
+[2016.10.23-16.25.04:681][400]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:689][401]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:697][402]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:706][403]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:714][404]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:723][405]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:731][406]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:739][407]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:747][408]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:756][409]LogBlueprintUserMessages: [MyChar_C_0] 2.0
+[2016.10.23-16.25.04:764][410]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:772][411]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:781][412]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:789][413]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:797][414]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:806][415]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:814][416]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:822][417]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:831][418]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:839][419]LogBlueprintUserMessages: [MyChar_C_0] 1.0
+[2016.10.23-16.25.04:847][420]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:856][421]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:864][422]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:872][423]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:881][424]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:889][425]LogBlueprintUserMessages: [MyChar_C_0] 0.0
+[2016.10.23-16.25.04:897][426]LogBlueprintUserMessages: [MyChar_C_0] ready
+[2016.10.23-16.25.05:825][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.25.05:859][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.25.26:818][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FS_Char/MyChar" FILE="D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset" SILENT=true
+[2016.10.23-16.25.26:877][533]LogSavePackage: Save=54.81ms
+[2016.10.23-16.25.26:877][533]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/MyCharD477BD764946858145D7BAAFE4B3A4F1.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset'
+[2016.10.23-16.25.26:878][533]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset
+[2016.10.23-16.26.10:464][348]LogSavePackage: Save=450.69ms
+[2016.10.23-16.26.10:464][348]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Minimal_DefaultA50BAA2F438081D6F0AEB2A42D3E6D5E.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.23-16.26.10:466][348]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.23-16.26.11:727][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.26.11:727][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.23-16.26.11:727][495]PIE: New page: PIE session: Minimal_Default (Oct 23, 2016, 9:26:11 PM)
+[2016.10.23-16.26.11:727][495]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2016.10.23-16.26.11:758][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030911s)
+[2016.10.23-16.26.11:758][495]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.23-16.26.11:759][495]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2016.10.23-16.26.11:759][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.031871s)
+[2016.10.23-16.26.11:773][495]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.23-16.26.11:780][495]LogInit: FAudioDevice initialized.
+[2016.10.23-16.26.11:817][495]LogWorld: Game class is 'MyGameMode_C'
+[2016.10.23-16.26.11:824][495]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-16.26.11:824][495]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2016.10.23-19.26.11
+[2016.10.23-16.26.11:824][495]LogWorld: Bringing up level for play took: 0.005783
+[2016.10.23-16.26.11:825][495]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-16.26.11:825][495]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-16.26.11:825][495]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-16.26.11:826][495]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-16.26.11:833][495]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.7
+[2016.10.23-16.26.11:833][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.26.11:833][495]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ReceiveTick
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ExecuteUbergraph_MyPlayerCont
+
+[2016.10.23-16.26.11:833][495]LogScriptCore:Warning: 
+[2016.10.23-16.26.12:352][550]LogBlueprintUserMessages: [MyChar_C_0] Landscape1
+[2016.10.23-16.26.14:420][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.26.14:455][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-16.26.48:438][772]BlueprintLog: New page: Compile MyChar
+[2016.10.23-16.26.48:469][772]LogBlueprint:Error: [Compiler MyChar] Error Spawn node  K2Node_CreateWidget_3  must have a class specified.
+[2016.10.23-16.26.48:657][772]BlueprintEditorCompileResults:Error: Error Spawn node  K2Node_CreateWidget_3  must have a class specified.
+[2016.10.23-16.26.48:657][772]LogBlueprint:Warning: [Compiler MyChar] Warning [0470.96] Compile of MyChar failed. 1 Fatal Issue(s) 0 Warning(s) [in 218 ms] (/Game/FS_Char/MyChar.MyChar)
+[2016.10.23-16.26.49:012][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FS_Char/MyChar" FILE="D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset" SILENT=true
+[2016.10.23-16.26.49:068][797]LogSavePackage: Save=51.84ms
+[2016.10.23-16.26.49:068][797]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/MyCharD653D3AD420351B60D6775869DAA6D36.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset'
+[2016.10.23-16.26.49:069][797]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset
+[2016.10.23-16.27.07:029][602]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-16.36.13:865][731]LogSavePackage: Save=453.14ms
+[2016.10.23-16.36.13:865][731]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Minimal_Default_Auto10D818E6B460D16E2C705C18F5F0D942E.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2016.10.23-16.36.13:866][731]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2016.10.23-16.36.13:867][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.506
+[2016.10.23-16.36.13:867][731]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.506
+[2016.10.23-16.36.13:870][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up] ([1] browsable assets)...
+[2016.10.23-16.36.13:876][731]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up.Rock-up]
+[2016.10.23-16.36.13:876][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up]
+[2016.10.23-16.36.13:879][731]LogSavePackage: Save=2.51ms
+[2016.10.23-16.36.13:879][731]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Rock-up_Auto16CA4BDAD48B0AD05A2ED5D9DB5ACC3CE.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up_Auto1.uasset'
+[2016.10.23-16.36.13:879][731]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up_Auto1.uasset
+[2016.10.23-16.36.13:879][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FS_Char/Book_with_card/Book_widget] ([1] browsable assets)...
+[2016.10.23-16.36.13:879][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/FS_Char/Book_with_card/Book_widget]
+[2016.10.23-16.36.13:882][731]LogSavePackage: Save=2.53ms
+[2016.10.23-16.36.13:882][731]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Book_widget_Auto19ED0E4794D2FD33A4F02E09DE9CE7875.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/FS_Char/Book_with_card/Book_widget_Auto1.uasset'
+[2016.10.23-16.36.13:883][731]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Autosaves/Game/FS_Char/Book_with_card/Book_widget_Auto1.uasset
+[2016.10.23-16.36.13:883][731]LogFileHelpers: Auto-saving content packages took 0.014
+[2016.10.23-16.39.42:520][510]LogSavePackage: Save=447.54ms
+[2016.10.23-16.39.42:520][510]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Minimal_DefaultDEA97D434C78883340B585BA85888771.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.23-16.39.42:522][510]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.23-16.39.56:791][135]SourceControl: Info On branch master
+[2016.10.23-16.39.56:791][135]SourceControl: Info Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+[2016.10.23-16.39.56:791][135]SourceControl: Info   (use "git pull" to update your local branch)
+[2016.10.23-16.39.56:791][135]SourceControl: Info Changes not staged for commit:
+[2016.10.23-16.39.56:791][135]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2016.10.23-16.39.56:791][135]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Config/DefaultEditor.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   FS.uproject
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/AutoScreenshot.png
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Config/Windows/Engine.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Config/WorldState/3944650773.json
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	modified:   Saved/Logs/FS.log
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-1D160CF04E3AC630F536B0AF4800F892/CrashReportClient.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info Untracked files:
+[2016.10.23-16.39.56:791][135]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Build/
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Config/DefaultInput.ini
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Content/FS_Char/
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Intermediate/Staging/
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Autosaves/Game/
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Action_with_cards_2016-10-22-19-43-42.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Book_2016-10-22-17-58-31.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-21-21-27-29.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-21-21-33-56.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-22-18-41-10.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-22-18-54-37.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-22-19-56-13.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-22-20-55-16.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-23-15-19-06.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_2016-10-23-15-43-54.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Class_2016-10-21-21-23-41.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Data_2016-10-21-21-06-58.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Data_2016-10-21-21-22-36.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Data_2016-10-22-18-35-32.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Data_2016-10-22-20-55-13.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Data_2016-10-23-15-43-54.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_Rock_up_2016-10-23-19-24-40.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-19-39-58.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-19-45-55.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-19-59-00.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-20-49-46.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-21-02-00.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_interface_2016-10-22-21-16-05.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_structure_2016-10-22-19-50-19.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_structure_2016-10-22-19-56-13.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_collecting_structure_2016-10-22-20-56-22.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_hit_2016-10-23-18-29-06.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_hit_2016-10-23-18-40-16.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_hit_2016-10-23-18-48-41.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_rareness_2016-10-21-21-16-59.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Card_rareness_2016-10-21-21-33-56.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Chest_2016-10-23-13-17-01.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Chest_2016-10-23-15-44-02.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Chest_with_card_2016-10-22-21-54-26.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Chest_with_card_2016-10-22-22-03-32.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Chest_with_card_2016-10-22-22-19-57.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Close_book_Texture_1_2016-10-22-17-54-16.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Close_book_Texture_2016-10-22-19-16-09.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Close_book_Texture_Mat_2016-10-22-17-52-11.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Hit_2016-10-21-21-32-26.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-15-43-21.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-15-50-42.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-16-00-48.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-16-13-43.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-16-25-17.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-16-34-02.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-19-27-08.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-19-34-28.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-19-39-28.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-19-46-41.uasset
+[2016.10.23-16.39.56:791][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-21-21-33-56.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-17-48-54.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-17-58-31.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-18-13-50.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-18-30-06.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-19-25-30.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-19-50-19.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Main_menu_2016-10-22-19-56-13.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-16-16-39-31.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-17-19-09-12.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-13-45-06.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-20-20-35.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-20-32-44.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-20-51-34.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-21-22-57.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-22-33-48.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-22-42-44.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-18-22-56-51.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-19-17-58-12.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-19-18-06-11.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-19-18-24-27.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-19-20-45-40.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-19-22-31-44.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-21-16-34-04.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-21-16-42-19.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-22-22-03-32.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-22-22-19-56.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-15-29-34.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-16-33-55.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-17-27-53.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-17-49-28.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-18-31-32.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-18-42-40.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-18-49-22.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-19-26-10.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/Minimal_Default_2016-10-23-19-36-13.umap
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-20-32-44.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-20-43-04.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-21-10-40.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-21-22-58.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-21-28-13.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-22-12-01.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-22-33-48.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-22-42-44.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-18-22-56-53.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-15-45-44.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-15-58-38.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-17-56-27.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-18-06-52.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-18-12-40.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-18-22-17.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-18-30-43.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-18-44-35.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-19-35-05.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-19-46-51.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-19-56-12.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-21-57-07.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-19-22-28-00.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-20-16-13-33.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-20-16-20-47.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-15-48-02.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-16-00-48.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-16-12-40.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-16-25-17.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-16-30-29.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-19-27-08.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-19-46-40.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-20-34-42.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-21-33-56.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-21-22-34-35.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-18-13-50.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-18-31-09.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-18-41-10.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-19-15-11.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-19-46-34.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-19-51-38.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-19-57-20.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-20-03-14.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-20-49-23.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-20-54-23.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-21-02-00.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-21-12-01.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-22-22-19-57.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-12-48-13.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-14-36-11.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-15-20-36.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-15-40-39.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-15-48-08.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-16-17-30.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-16-23-41.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-16-32-14.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-17-06-16.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-17-49-18.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-18-21-38.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-18-31-32.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-18-41-33.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-18-49-22.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyChar_2016-10-23-19-25-26.uasset
+[2016.10.23-16.39.56:792][135]SourceControl: Info 	Saved/Backup/MyGameMode_2016-10-18-20-32-44.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyGameMode_2016-10-18-20-51-34.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyGameMode_2016-10-19-18-06-50.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-21-28-11.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-22-12-01.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-22-22-22.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-22-33-48.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-22-42-41.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-18-22-56-47.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-15-45-44.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-15-58-38.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-17-56-36.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-18-06-54.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-18-15-53.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-19-35-05.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-19-45-37.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-22-15-29.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/MyPlayerCont_2016-10-19-22-28-00.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/Press_2016-10-23-17-59-43.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/Press_2016-10-23-18-49-22.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/Press_button_2016-10-23-17-26-34.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/Press_button_2016-10-23-17-35-40.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/Press_button_2016-10-23-17-44-57.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-15-14-20.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-15-40-39.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-15-46-59.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-15-52-42.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-16-24-35.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-16-30-33.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-17-42-11.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-17-59-43.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-18-09-58.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-18-17-04.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageCard_2016-10-23-18-30-07.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-15-14-13.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-15-51-17.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-15-57-02.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-16-31-24.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-17-51-31.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-17-59-43.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-18-06-29.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-18-19-59.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-18-31-33.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-18-42-41.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/StorageComponent_2016-10-23-18-49-22.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Backup/hit_2016-10-23-17-41-31.uasset
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Collections/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Cooked/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.20-15.47.01.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.21-15.37.12.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.21-19.04.51.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.22-17.44.19.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.22-19.57.38.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.22-19.59.46.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.23-12.36.44.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.23-17.17.04.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/FS-backup-2016.10.23-19.18.58.log
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-01F3F4DD4F925A3A436E248E4A58EB93/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-2076CF8F4F2742F22502F5A16B7814C3/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-3FD1CBC443E6C8E1A7BA2B847415EDCE/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-45A502F24D6E45FB7F687E84DFA24C9C/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-7C1C5416488E8AECC5E262BE8C2B4FE1/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-977803134E8CA49DB120AF8582025EF4/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-AAFD7922438362845239338A093D0451/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-C46F544B42227FEC926D2EBC2A12DCB1/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-E7DA8F9A404F4424F2A32EB1E26A1433/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-F1062422436E8AF2C467959BB2FEB3ED/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/Logs/UE4CC-Windows-FBF32327483897816609EA826AC454F4/
+[2016.10.23-16.39.56:793][135]SourceControl: Info 	Saved/StagedBuilds/
+[2016.10.23-16.39.56:793][135]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.10.23-16.40.38:513][767]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.10.23-16.40.51:453][109]BlueprintLog: New page: Compile Card_Rock_up
+[2016.10.23-16.40.51:866][128]LogSavePackage: Save=30.49ms
+[2016.10.23-16.40.51:866][128]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Card_Rock_upEBA67C394DAD3B8953CB5AA25A11DD99.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset'
+[2016.10.23-16.40.51:867][128]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset
+[2016.10.23-16.40.52:845][213]BlueprintLog: New page: Compile MyChar
+[2016.10.23-16.40.52:876][213]LogBlueprint:Error: [Compiler MyChar] Error Spawn node  K2Node_CreateWidget_3  must have a class specified.
+[2016.10.23-16.40.53:065][213]BlueprintEditorCompileResults:Error: Error Spawn node  K2Node_CreateWidget_3  must have a class specified.
+[2016.10.23-16.40.53:065][213]LogBlueprint:Warning: [Compiler MyChar] Warning [1315.35] Compile of MyChar failed. 1 Fatal Issue(s) 0 Warning(s) [in 220 ms] (/Game/FS_Char/MyChar.MyChar)
+[2016.10.23-16.40.56:331][493]BlueprintLog: New page: Compile MyChar
+[2016.10.23-16.40.56:683][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FS_Char/MyChar" FILE="D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset" SILENT=true
+[2016.10.23-16.40.56:739][502]LogSavePackage: Save=52.67ms
+[2016.10.23-16.40.56:739][502]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/MyChar3F3E065D4AD92E185AC6D98E7D88F221.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset'
+[2016.10.23-16.40.56:740][502]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/MyChar.uasset
+[2016.10.23-16.40.58:622][634]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.10.23-16.41.00:290][822]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.10.23-16.41.02:885][822]LogSavePackage: Save=432.99ms
+[2016.10.23-16.41.02:885][822]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Minimal_DefaultB252C7C945C3C52BA3EDA19908B4D535.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.23-16.41.02:887][822]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.23-16.41.02:899][822]LogFileHelpers: Saving map 'Minimal_Default' took 0.495
+[2016.10.23-16.41.52:410][822]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.10.23-16.41.52:490][822]SourceControl: Info [master 69f5457] FS_With_Book
+[2016.10.23-16.41.52:490][822]SourceControl: Info  5 files changed, 0 insertions(+), 0 deletions(-)
+[2016.10.23-16.41.52:490][822]SourceControl: Info  create mode 100644 Content/FS_Char/Book_with_card/Card_BInterface.uasset
+[2016.10.23-16.41.52:490][822]SourceControl: Info  create mode 100644 Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Card_Rock_up.uasset
+[2016.10.23-16.41.52:490][822]SourceControl: Info  create mode 100644 Content/FS_Char/Book_with_card/StorageComponent.uasset
+[2016.10.23-16.41.52:490][822]SourceControl: Info  create mode 100644 Content/FS_Char/MyChar.uasset
+[2016.10.23-16.41.52:493][822]SourceControl: Info Commited [master 69f5457] FS_With_Book.
+[2016.10.23-16.52.47:440][211]LogDirectoryWatcher: A directory notification failed for 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Collections/', and we were unable to create a new request.
+[2016.10.23-17.02.38:096][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-17.02.38:096][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.23-17.02.38:096][306]PIE: New page: PIE session: Minimal_Default (Oct 23, 2016, 10:02:38 PM)
+[2016.10.23-17.02.38:096][306]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2016.10.23-17.02.38:124][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027485s)
+[2016.10.23-17.02.38:124][306]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.23-17.02.38:124][306]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2016.10.23-17.02.38:125][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.028460s)
+[2016.10.23-17.02.38:137][306]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.23-17.02.38:145][306]LogInit: FAudioDevice initialized.
+[2016.10.23-17.02.38:181][306]LogWorld: Game class is 'MyGameMode_C'
+[2016.10.23-17.02.38:187][306]LogPhysics:Warning: AddBoxesToRigidActor: [/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Press_button_175.Widget] BoxElems[0] invalid or has invalid transform
+[2016.10.23-17.02.38:187][306]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2016.10.23-20.02.38
+[2016.10.23-17.02.38:187][306]LogWorld: Bringing up level for play took: 0.005203
+[2016.10.23-17.02.38:188][306]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-17.02.38:188][306]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.23-17.02.38:188][306]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-17.02.38:189][306]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.23-17.02.38:192][306]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.379
+[2016.10.23-17.02.38:192][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-17.02.38:193][306]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ReceiveTick
+	Function /Game/FS_Char/MyPlayerCont.MyPlayerCont_C:ExecuteUbergraph_MyPlayerCont
+
+[2016.10.23-17.02.38:193][306]LogScriptCore:Warning: 
+[2016.10.23-17.02.38:687][358]LogBlueprintUserMessages: [MyChar_C_0] Landscape1
+[2016.10.23-17.02.39:412][445]LogBlueprintUserMessages: [StorageComponent] 0
+[2016.10.23-17.02.39:412][445]LogBlueprintUserMessages: [MyChar_C_0] Card_hit
+[2016.10.23-17.02.39:770][488]LogBlueprintUserMessages: [StorageComponent] 1
+[2016.10.23-17.02.39:770][488]LogBlueprintUserMessages: [MyChar_C_0] Card_Rock_up
+[2016.10.23-17.02.41:572][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-17.02.41:604][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2016.10.23-17.07.10:621][938]LogSavePackage: Save=455.67ms
+[2016.10.23-17.07.10:621][938]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Minimal_Default601791684DFDA89779097592A7468F94.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.23-17.07.10:622][938]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.23-17.07.12:109][109]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.10.23-17.07.21:705][109]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.10.23-17.07.21:755][109]SourceControl: Info [master 8e1e311] Lol2
+[2016.10.23-17.07.21:755][109]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.10.23-17.07.21:759][109]SourceControl: Info Commited [master 8e1e311] Lol2.
+[2016.10.23-17.09.24:428][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FS_Char/Book_with_card/Book_widget" FILE="D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Book_widget.uasset" SILENT=true
+[2016.10.23-17.09.24:431][320]LogSavePackage: Save=2.49ms
+[2016.10.23-17.09.24:431][320]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Book_widget08F83FF942DC89368E0991ADAD9C2B04.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Book_widget.uasset'
+[2016.10.23-17.09.24:432][320]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Book_widget.uasset
+[2016.10.23-17.09.24:505][320]LogSavePackage: Save=3.71ms
+[2016.10.23-17.09.24:505][320]LogSavePackage: Moving 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Saved/Rock-upB89D23CF4D3EA30E742344B7ADEC69FF.tmp' to 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up.uasset'
+[2016.10.23-17.09.24:505][320]LogSavePackage:Display: Finished SavePackage D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/FS_Char/Book_with_card/Cards/Cards/Card_rock-up/Rock-up.uasset
+[2016.10.23-17.09.27:626][662]Cmd: QUIT_EDITOR
+[2016.10.23-17.09.27:668][662]LogExit: Preparing to exit.
+[2016.10.23-17.09.28:450][662]LogExit: Editor shut down
+[2016.10.23-17.09.28:451][662]LogExit: Transaction tracking system shut down
+[2016.10.23-17.09.28:598][662]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.23-17.09.28:598][662]LogExit: Object subsystem successfully closed.
+[2016.10.23-17.09.28:618][662]LogD3D11RHI: Shutdown
+[2016.10.23-17.09.28:618][662]LogD3D11RHI: CleanupD3DDevice
+[2016.10.23-17.09.28:667][662]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module SequencerWidgets (239)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (238)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (237)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module TextureEditor (236)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.10.23-17.09.28:675][662]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.10.23-17.09.28:675][662]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.10.23-17.09.28:676][662]LogDirectoryWatcher: A directory notification for 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/Collections/' was aborted.
+[2016.10.23-17.09.28:676][662]LogDirectoryWatcher: A directory notification for 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/Developers/Xotabuch/Collections/' was aborted.
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.10.23-17.09.28:676][662]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.10.23-17.09.28:677][662]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.10.23-17.09.28:677][662]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.10.23-17.09.28:948][662]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.10.23-17.09.28:949][662]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.10.23-17.09.28:990][662]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.10.23-17.09.28:996][662]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.10.23-17.09.28:996][662]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.10.23-17.09.28:998][662]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.10.23-17.09.29:221][662]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.10.23-17.09.29:221][662]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.10.23-17.09.29:222][662]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.10.23-17.09.29:223][662]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.10.23-17.09.29:225][662]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.10.23-17.09.29:226][662]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.10.23-17.09.29:226][662]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.10.23-17.09.29:227][662]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.10.23-17.09.29:227][662]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.10.23-17.09.29:229][662]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.10.23-17.09.29:232][662]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.10.23-17.09.29:232][662]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.10.23-17.09.29:332][662]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.10.23-17.09.29:332][662]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.23-17.09.29:332][662]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.23-17.09.29:332][662]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.23-17.09.29:332][662]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.23-17.09.29:333][662]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.23-17.09.29:335][662]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.23-17.09.29:335][662]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.23-17.09.29:336][662]LogDirectoryWatcher: A directory notification for 'D:/body/Forbidden Sorcery/ForbiddenSorcery/Content/' was aborted.
+[2016.10.23-17.09.29:336][662]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.23-17.09.29:336][662]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.23-17.09.29:461][662]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.23-17.09.29:461][662]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.23-17.09.29:461][662]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.23-17.09.29:461][662]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.23-17.09.29:504][662]LogDerivedDataCache: Shutdown
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.23-17.09.29:504][662]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.23-17.09.29:505][662]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.23-17.09.29:505][662]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.23-17.09.29:505][662]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.23-17.09.29:505][662]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855E2D02-4307-202B-E9C7-488AAF791A6B%7D&AppID=UEEditor.Rocket.Release&AppVersion=%2B%2BUE4%2BRelease-4.13-CL-3106830&UserID=63f9e5154040a9289bc1528335be76dc%7C0df58be926374caf9c5d7b20f069b123%7Ccf6956a7-109e-4357-8b45-3eb5a7a644b3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.23-17.09.29:529][662]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.23-17.09.29:529][662]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.23-17.09.29:529][662]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.23-17.09.29:529][662]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.23-17.09.29:529][662]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.23-17.09.29:532][662]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.23-17.09.29:533][662]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.23-17.09.29:539][662]LogExit: Exiting.
+[2016.10.23-17.09.29:552][662]Log file closed, 10/23/16 20:09:29
